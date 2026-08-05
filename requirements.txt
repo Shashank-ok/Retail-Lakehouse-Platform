@@ -1,9 +1,0 @@
-pandas
-pyarrow
-numpy
-sqlalchemy
-duckdb
-jupyter
-matplotlib
-pytest
-python-dotenv
